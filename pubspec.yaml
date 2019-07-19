@@ -1,0 +1,6 @@
+name: dart_server_demo
+description: Dart server test
+
+dependencies:
+  jaguar: 2.4.36
+  jaguar_reflect: 2.4.6
